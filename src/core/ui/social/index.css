@@ -1,0 +1,10 @@
+.social-networks {
+  a {
+    &:first-child {
+      padding-left: 0px;
+    }
+    &:last-child {
+      padding-right: 0;
+    }
+  }
+}

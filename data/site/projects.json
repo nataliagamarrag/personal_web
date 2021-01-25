@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Web Exchange Rate",
+    "description": "Website to change dollars with bank support to provide more security.",
+    "image": "./images/projects/cocoslucas.jpg"
+  },
+  {
+    "title": "Home Banking Business",
+    "description": "Banking operations for enterprises (mass payments, balance inquiries, online transfers, authorizations, etc.).",
+    "image": "./images/projects/companies.png"
+  },
+  {
+    "title": "Home Banking Web",
+    "description": "Banking operations for people (balance inquiries, payments, transfers, frequent transactions, card configuration, etc.).",
+    "image": "./images/projects/persons.png"
+  },
+  {
+    "title": "Shopping cart in transport",
+    "description": "Shopping cart to sell bus tickets (version mobile friendly)",
+    "image": "./images/projects/redcoach.png"
+  }
+]
