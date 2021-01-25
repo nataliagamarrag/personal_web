@@ -6,9 +6,8 @@ import useIntersectionObserver from "../../../../core/infrastructure/use-interse
 import gsap from "gsap/gsap-core"
 
 const items = [
-  { label: "Personal projects" },
-  { label: "Latest posts" },
-  { label: "I teamed up and worked arm to arm in :" },
+  { label: "últimas publicaciones" },
+  { label: "proyectos personales" },
 ]
 
 const ListSections = () => {

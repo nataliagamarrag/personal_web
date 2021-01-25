@@ -1,13 +1,12 @@
 const config = {
-  title: "Keven Saldaña - Developer",
+  title: "Natalia Gamarra",
   lang: "en",
   start_url: "/",
-  description:
-    "I graduated from the Universidad Nacional de Trujillo, Peru. I have five years of producing high-quality online platforms.",
-  author: "Keven Saldaña",
-  fonts: [`material icons`, `Poppins\:300,400,500,700,800,900`],
+  description: "Data Engineer Peruana 🇵🇪  viviendo en Barcelona 🇪🇸 ",
+  author: "Natalia Gamarra",
+  fonts: [`material icons`, `Open+Sans+Condense\:300,400,500,700,800,900`],
   icon: "./data/site/images/brand/icon.png",
-  url: "https://kevensaldana.com",
+  url: "https://nataliagamarag.com",
   tagManager: {
     id: "GTM-54M4BNH",
     includeInDevelopment: false,
@@ -23,11 +22,16 @@ const config = {
     },
   ],
   social: {
-    email: "keven.sa17@gmail.com",
+    email: "ngamarraguerrero@gmail.com",
     networks: [
-      { name: "Email", src: "mailto:keven.sa17@gmail.com?subject=Hi" },
-      { name: "Twitter", src: "https://twitter.com/kevsa17", user: "@kevsa17" },
-      { name: "Linkedin", src: "https://www.linkedin.com/in/kevengsa/" },
+      { name: "Email", src: "mailto:ngamarraguerrero@gmail.com?subject=Hola" },
+      { name: "Linkedin", src: "https://www.linkedin.com/in/nataliagamarrag/" },
+      {
+        name: "Twitter",
+        src: "https://twitter.com/nataliagamarrag",
+        user: "@nataliagamarrag",
+      },
+      { name: "Instagram", src: "https://www.instagram.com/nataliagamarra/" },
     ],
   },
 }

@@ -56,14 +56,14 @@ const Home = ({ posts }) => {
           </div>
           <div className="lg:w-1/2 lg:absolute lg:right-0 lg:pl-20 lg:pt-20 md:pr-4">
             <div className="item-scroll mb-6" data-order="0">
-              <ListRepositories />
-            </div>
-            <div className="mt-10 item-scroll" data-order="1">
               <ListPosts posts={posts} />
             </div>
-            <div className="lg:mt-10 item-scroll" data-order="2">
-              <LatestWork />
+            <div className="mt-10 item-scroll" data-order="1">
+              <ListRepositories />
             </div>
+            {/* <div className="lg:mt-10 item-scroll" data-order="2">
+              <LatestWork />
+            </div> */}
           </div>
         </div>
       </div>
